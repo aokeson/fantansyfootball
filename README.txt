@@ -1,0 +1,6 @@
+Alex Okeson
+CSCI 5654
+
+I implemented an integer linear program to solve for the best weekly lineup for a fantasy football league. This involved researching how to formulate constraints and variables that will predict a players success. The implementation itself took into account this as well as the number of players and positions needed on a team and a scoring functions for each position depending on how the league awards points. There are statisticians and data scientists doing research on this currently but specifically for how to choose a team at the beginning of a season. I implemented this for setting a weekly lineup given that you can only choose from approximately 150 players and need to take into account who the opponent is and how much risk someone is willing to take on.
+
+All of the code written is my own. I downloaded all player data in the spreasheets named 'week##.xls' from http://apps.fantasyfootballanalytics.net/projections. The players.xls file contains the names of players available to be used for a given person in a given league.
